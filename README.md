@@ -1,8 +1,4 @@
 # Ethereum-Fraud-Detection
-  The Ethereum Fraud Detection System is a real-time blockchain monitoring tool that analyzes Ethereum transactions to detect fraudulent activities using advanced algorithms and Web3 technology.
-  Here's a GitHub README file for your Ethereum Fraud Detection System based on your provided URL:
-
-# Ethereum Fraud Detection System
 
 ## Overview
 
