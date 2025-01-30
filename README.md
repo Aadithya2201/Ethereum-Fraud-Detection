@@ -11,10 +11,15 @@ ethprotector is a real-time Ethereum Fraud Detection System that monitors blockc
 ## Features
 
 ✅ Transaction Analysis - Detects suspicious transaction patterns.
+<br>
 🔒 Fraud Detection - Flags fraudulent transactions using predefined rules.
+<br>
 📊 Data Visualization - Real-time transaction monitoring with interactive charts.
+<br>
 🔗 Web3 Connection - Connects to the Ethereum Mainnet via Infura API.
+<br>
 🛠 Block Processing - Monitors and processes new Ethereum blocks in real-time.
+<br>
 
 ## Tech Stack
 
@@ -93,7 +98,9 @@ This project is licensed under the MIT License.
 📧 Contact
 
 👨‍💻 Developer: Aadithya.R
+<br>
 📩 Email: aadithya.ramku@gmail.com
+<br>
 🔗 Website: https://ethprotector.netlify.app/
 
 
